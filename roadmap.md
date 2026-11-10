@@ -1,0 +1,3 @@
+- [ ] Build the Polyglot ASR shared research shell and seven responsive pages.
+- [ ] Add a typed configurable API client, honest disconnected-backend states, and API contract documentation.
+- [ ] Add focused API behavior tests; run tests and validate the live preview, diagnostics, and navigation.
